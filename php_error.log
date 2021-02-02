@@ -1,0 +1,92 @@
+[21-Apr-2018 22:16:24 Asia/Shanghai] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/limesurvey/index.php:2) in /Applications/MAMP/htdocs/limesurvey/index.php on line 3
+[02-Jan-2020 01:27:06 Asia/Chongqing] PHP Notice:  Undefined variable: servername in /var/www/questionnaire/statistics.php on line 8
+[02-Jan-2020 01:27:06 Asia/Chongqing] PHP Notice:  Undefined variable: redirect in /var/www/questionnaire/statistics.php on line 23
+[02-Jan-2020 01:27:06 Asia/Chongqing] PHP Notice:  Undefined variable: error in /var/www/questionnaire/statistics.php on line 118
+[24-Feb-2020 09:10:52 Asia/Chongqing] PHP Fatal error:  Call to a member function get() on a non-object in /var/www/questionnaire/statistics.php on line 197
+[24-Feb-2020 09:10:54 Asia/Chongqing] PHP Fatal error:  Call to a member function get() on a non-object in /var/www/questionnaire/statistics.php on line 197
+[24-Feb-2020 09:16:32 Asia/Chongqing] PHP Fatal error:  Call to a member function getPost() on a non-object in /var/www/questionnaire/statistics.php on line 197
+[24-Feb-2020 09:18:50 Asia/Chongqing] PHP Fatal error:  Call to a member function getPost() on a non-object in /var/www/questionnaire/statistics.php on line 197
+[24-Feb-2020 09:18:53 Asia/Chongqing] PHP Fatal error:  Call to a member function getPost() on a non-object in /var/www/questionnaire/statistics.php on line 197
+[24-Feb-2020 09:28:40 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/Statistics_userController.php on line 63
+[24-Feb-2020 09:28:40 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/Statistics_userController.php on line 64
+[24-Feb-2020 09:36:15 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:36:15 Asia/Chongqing] PHP Notice:  Undefined property: CException::$statusCode in /var/www/questionnaire/application/core/LSYii_Application.php on line 314
+[24-Feb-2020 09:38:01 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:38:01 Asia/Chongqing] PHP Notice:  Undefined property: CException::$statusCode in /var/www/questionnaire/application/core/LSYii_Application.php on line 314
+[24-Feb-2020 09:38:12 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:38:12 Asia/Chongqing] PHP Notice:  Undefined property: CException::$statusCode in /var/www/questionnaire/application/core/LSYii_Application.php on line 314
+[24-Feb-2020 09:38:14 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:38:14 Asia/Chongqing] PHP Notice:  Undefined property: CException::$statusCode in /var/www/questionnaire/application/core/LSYii_Application.php on line 314
+[24-Feb-2020 09:39:10 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:39:10 Asia/Chongqing] PHP Notice:  Undefined property: CException::$statusCode in /var/www/questionnaire/application/core/LSYii_Application.php on line 314
+[24-Feb-2020 09:39:23 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:39:23 Asia/Chongqing] PHP Notice:  Undefined property: CException::$statusCode in /var/www/questionnaire/application/core/LSYii_Application.php on line 314
+[24-Feb-2020 09:39:25 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:39:25 Asia/Chongqing] PHP Notice:  Undefined property: CException::$statusCode in /var/www/questionnaire/application/core/LSYii_Application.php on line 314
+[24-Feb-2020 09:39:29 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:39:29 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/hku_statistics_view.php on line 9
+[24-Feb-2020 09:39:29 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/hku_statistics_view.php on line 53
+[24-Feb-2020 09:39:29 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/hku_statistics_view.php on line 63
+[24-Feb-2020 09:55:16 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 72
+[24-Feb-2020 09:55:16 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 245
+[24-Feb-2020 09:55:16 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/hku_statistics_view.php on line 9
+[24-Feb-2020 09:55:16 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/hku_statistics_view.php on line 53
+[24-Feb-2020 09:55:16 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/hku_statistics_view.php on line 63
+[24-Feb-2020 09:55:56 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/admin/statistics.php on line 1018
+[24-Feb-2020 09:55:56 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 16
+[24-Feb-2020 09:55:56 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 60
+[24-Feb-2020 09:55:56 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 70
+[24-Feb-2020 10:06:02 Asia/Chongqing] PHP Notice:  Undefined variable: language in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 61
+[24-Feb-2020 10:06:02 Asia/Chongqing] PHP Notice:  Undefined variable: language in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 64
+[24-Feb-2020 10:06:03 Asia/Chongqing] PHP Notice:  Undefined variable: thisSurveyCssPath in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 119
+[24-Feb-2020 10:06:03 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:07:30 Asia/Chongqing] PHP Notice:  Undefined variable: language in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 63
+[24-Feb-2020 10:07:30 Asia/Chongqing] PHP Notice:  Undefined variable: thisSurveyCssPath in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 118
+[24-Feb-2020 10:07:30 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:07:45 Asia/Chongqing] PHP Notice:  Undefined variable: sLanguage in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 102
+[24-Feb-2020 10:07:45 Asia/Chongqing] PHP Notice:  Undefined variable: thisSurveyCssPath in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 118
+[24-Feb-2020 10:07:45 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:07:47 Asia/Chongqing] PHP Notice:  Undefined variable: sLanguage in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 102
+[24-Feb-2020 10:07:47 Asia/Chongqing] PHP Notice:  Undefined variable: thisSurveyCssPath in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 118
+[24-Feb-2020 10:07:47 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:08:00 Asia/Chongqing] PHP Notice:  Undefined variable: thisSurveyCssPath in /var/www/questionnaire/application/controllers/Hku_statisticsController.php on line 118
+[24-Feb-2020 10:08:00 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:08:40 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:09:40 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:10:08 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:10:58 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:11:14 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:11:15 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:12:17 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 10:12:38 Asia/Chongqing] PHP Fatal error:  Cannot redeclare createChart() (previously declared in /var/www/questionnaire/application/helpers/userstatistics_helper.php:29) in /var/www/questionnaire/application/helpers/admin/statistics_helper.php on line 275
+[24-Feb-2020 11:01:01 Asia/Chongqing] PHP Notice:  Undefined property: CException::$statusCode in /var/www/questionnaire/application/core/LSYii_Application.php on line 314
+[24-Feb-2020 11:09:30 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:10:04 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:10:24 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:10:24 Asia/Chongqing] PHP Notice:  Undefined index: step in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 106
+[24-Feb-2020 11:10:25 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:10:47 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:10:47 Asia/Chongqing] PHP Notice:  Undefined index: step in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 106
+[24-Feb-2020 11:10:49 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:11:30 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:11:30 Asia/Chongqing] PHP Notice:  Undefined index: step in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 106
+[24-Feb-2020 11:11:31 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:30:09 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/admin/statistics.php on line 1018
+[24-Feb-2020 11:30:09 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 16
+[24-Feb-2020 11:30:09 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 60
+[24-Feb-2020 11:30:09 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 70
+[24-Feb-2020 11:42:26 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/survey/index.php on line 648
+[24-Feb-2020 11:42:26 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/survey/index.php on line 649
+[24-Feb-2020 11:42:26 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/survey/index.php on line 650
+[24-Feb-2020 11:42:26 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/survey/index.php on line 664
+[24-Feb-2020 11:42:26 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753
+[24-Feb-2020 11:53:40 Asia/Chongqing] PHP Fatal error:  Class 'statistics' not found in /var/www/questionnaire/framework/YiiBase.php on line 204
+[24-Feb-2020 12:52:48 Asia/Chongqing] PHP Notice:  Undefined variable: summary in /var/www/questionnaire/application/controllers/admin/statistics.php on line 1018
+[24-Feb-2020 12:52:48 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 16
+[24-Feb-2020 12:52:48 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 60
+[24-Feb-2020 12:52:48 Asia/Chongqing] PHP Notice:  Undefined variable: token in /var/www/questionnaire/application/views/admin/export/hku_statistics.php on line 70
+[24-Feb-2020 15:57:13 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/survey/index.php on line 648
+[24-Feb-2020 15:57:13 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/survey/index.php on line 649
+[24-Feb-2020 15:57:13 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/survey/index.php on line 650
+[24-Feb-2020 15:57:13 Asia/Chongqing] PHP Notice:  Trying to get property of non-object in /var/www/questionnaire/application/controllers/survey/index.php on line 664
+[24-Feb-2020 15:57:13 Asia/Chongqing] PHP Notice:  Undefined variable: firsttime in /var/www/questionnaire/application/helpers/SurveyRuntimeHelper.php on line 1753

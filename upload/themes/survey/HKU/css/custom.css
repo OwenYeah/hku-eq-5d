@@ -1,0 +1,78 @@
+/******************
+    User custom CSS
+    ---------------
+
+    In this file you can add your own custom CSS
+    It will be loaded last, so you can override any other property.
+    Also, it will never be updated. So if you inheritate a core template and just add here some CSS, you'll still benefit of all the updates
+*/
+body{
+    font-size: 24px;
+}
+.hku-custom.numeric .question-valid-container, .hku-custom.numeric .answer-container, .hku-custom.numeric .question-help-container{
+    margin-left: 20px;
+}
+/*
+.hku-custom.numeric .question-valid-container{
+    margin-top: -700px;
+}
+.hku-custom.numeric .answer-container{
+    margin-top: -650px;
+}
+.hku-custom.numeric .question-help-container{
+    margin-top: -600px;
+}
+*/
+.hku-custom input.numeric.form-control {
+    width: 100px;
+}
+.ls-question-message.em_dberror.ls-em-error.text-danger, .ls-question-message.ls-em-tip.ls-em-success{
+    display: none;
+}
+.outerframe.container{
+    max-width: 720px;
+}  
+.token-page .text-info{
+    display: none;
+}
+.assessment-table.table{
+    display: none;
+}
+.asterisk{
+    display: none;
+}
+.space-col{
+    margin-top:0px;
+    margin-bottom:10px;
+}
+.question-title-container{
+    padding-bottom:0;
+}
+.question-container{
+    margin-bottom:0;
+}
+.ls-answers{
+    padding-top:0;
+    padding-bottom:0;
+}
+#main-col{
+    margin-top:1em;
+}
+.radio-item label::before{
+    border: 2px solid #000;
+}
+.fruity .form-control{
+    border: 1px solid #000;
+    height:60px;
+    font-size: 24px;
+}
+
+.green-bg > .question-title-container{
+    background-color: #bee8bf;
+    padding-top: 0.5em;
+}
+@media only screen and (max-device-width: 760px) {
+    h1, .h3 {
+        font-size: 36px;
+    }
+}
